@@ -1,2 +1,6 @@
 <!--pages/about/about.wxml-->
 <text>pages/about/about.wxml</text>
+<text>hello world</text>
+<button>按钮</button>
+<view>1.知识点1</view>
+<view>哈哈哈哈哈</view>
